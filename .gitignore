@@ -1,1 +1,2 @@
-logFile00.md
+*.log
+primera_carpeta/*.log
