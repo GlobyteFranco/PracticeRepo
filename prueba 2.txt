@@ -1,2 +1,6 @@
 prueba 2
+<<<<<<< HEAD
 Mejor otro cambio xd
+=======
+Agregado de prueba
+>>>>>>> 2e2fd3cd07a3d0b26f01ed852b0aa1ac75a7438d
