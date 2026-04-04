@@ -13,8 +13,10 @@ public class App
     {
         Parte parte1 = new Parte(1, 50, "Pedales (pedals): Elementos donde el ciclista apoya los pies para transmitir fuerza al sistema de transmisión.", false);
         Parte parte2 = new Parte(2, 50, null, true);
-
+        Parte parte5 = new Parte(2, 50, null, true);
         Parte parte3 = new Parte(3, 50, null, false);
+
+        Parte parte9 = new Parte(3, 50, null, false);
         Parte parte4 = new Parte(4, 50, null, false);
 
         List<Parte> lista1 = new ArrayList<>();
